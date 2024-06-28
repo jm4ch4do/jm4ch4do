@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Machado @jm4ch4do
 - 👀 I’m interested in so many things, really :)
-- 🌱 I’m currently learning Django/Vue
+- 🌱 I’m currently learning Pygame
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 You can reach me at m4ch4do@protonmail.com
 
