@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Machado @jm4ch4do
 - 👀 I’m interested in so many things, really :)
-- 🌱 I’m currently learning GithubActions
+- 🌱 I’m currently studing to pass the Docker Associate Certification
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 You can reach me at m4ch4do@protonmail.com
 
